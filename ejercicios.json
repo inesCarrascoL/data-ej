@@ -1,144 +1,270 @@
 {
   "ejercicios": [
+
     {
       "id": "sentadilla_barra",
       "nombre": "Sentadilla con barra",
       "repeticiones": "4x10",
       "duracionMin": 10,
-      "calorias": 80,
-      "tipo": "fuerza",
-      "musculos": ["Pierna", "Glúteos"],
-      "instrucciones": "Coloca la barra sobre los trapecios, baja manteniendo la espalda recta y empuja fuerte hacia arriba."
-    },
-    {
-      "id": "peso_muerto",
-      "nombre": "Peso muerto",
-      "repeticiones": "4x8",
-      "duracionMin": 11,
       "calorias": 90,
       "tipo": "fuerza",
-      "musculos": ["Espalda", "Pierna"],
-      "instrucciones": "Agarra la barra desde el suelo con espalda recta, activa core y eleva la barra manteniendo la barra pegada al cuerpo."
+      "musculos": ["Pierna", "Glúteos"],
+      "instrucciones": "Coloca la barra sobre los trapecios, baja manteniendo la espalda recta y las rodillas alineadas. Desciende hasta 90º y sube empujando con los talones."
     },
+    
+    {
+      "id": "sentadilla_goblet",
+      "nombre": "Sentadilla Goblet",
+      "repeticiones": "3x15",
+      "duracionMin": 8,
+      "calorias": 70,
+      "tipo": "fuerza",
+      "musculos": ["Pierna", "Glúteos"],
+      "instrucciones": "Sujeta una mancuerna contra el pecho. Mantén el core firme, baja con control y sube empujando fuerte desde los talones."
+    },
+
+    {
+      "id": "zancadas",
+      "nombre": "Zancadas alternas",
+      "repeticiones": "3x12",
+      "duracionMin": 7,
+      "calorias": 60,
+      "tipo": "fuerza",
+      "musculos": ["Pierna", "Glúteos"],
+      "instrucciones": "Da un paso largo hacia delante, baja con la rodilla trasera hacia el suelo sin tocarlo. Mantén torso recto y empuja hacia atrás para volver."
+    },
+
     {
       "id": "hip_thrust",
       "nombre": "Hip Thrust",
       "repeticiones": "4x12",
-      "duracionMin": 15,
-      "calorias": 60,
+      "duracionMin": 8,
+      "calorias": 80,
       "tipo": "fuerza",
       "musculos": ["Glúteos"],
-      "instrucciones": "Apoya la espalda en el banco, eleva la cadera apretando glúteos y baja de forma controlada."
+      "instrucciones": "Eleva la cadera apretando glúteos en la parte alta. Mantén la tibia perpendicular al suelo y evita arquear la espalda."
     },
+
     {
-      "id": "zancadas_mancuernas",
-      "nombre": "Zancadas con mancuernas",
-      "repeticiones": "3x12 por pierna",
-      "duracionMin": 7,
-      "calorias": 55,
+      "id": "apertura_gluteo",
+      "nombre": "Apertura de glúteos en máquina",
+      "repeticiones": "3x15",
+      "duracionMin": 6,
+      "calorias": 50,
       "tipo": "fuerza",
-      "musculos": ["Pierna", "Glúteos"],
-      "instrucciones": "Da un paso largo hacia delante, baja en vertical y vuelve empujando con fuerza."
+      "musculos": ["Glúteos", "Abductores"],
+      "instrucciones": "Abre las piernas contra la resistencia manteniendo el tronco estable. Haz la fase excéntrica lenta."
     },
+
     {
-      "id": "press_banca",
-      "nombre": "Press de banca",
+      "id": "peso_muerto",
+      "nombre": "Peso muerto",
       "repeticiones": "4x8",
       "duracionMin": 10,
-      "calorias": 70,
+      "calorias": 90,
+      "tipo": "fuerza",
+      "musculos": ["Espalda", "Pierna"],
+      "instrucciones": "Agarra la barra desde el suelo con espalda recta. Mantén la barra pegada al cuerpo durante todo el recorrido y empuja el suelo con los talones."
+    },
+
+    {
+      "id": "curl_femoral",
+      "nombre": "Curl femoral",
+      "repeticiones": "3x12",
+      "duracionMin": 5,
+      "calorias": 45,
+      "tipo": "fuerza",
+      "musculos": ["Isquios"],
+      "instrucciones": "Flexiona las piernas elevando el rodillo con control. Aprieta atrás y baja lentamente."
+    },
+
+    {
+      "id": "extension_cuadriceps",
+      "nombre": "Extensiones de cuádriceps",
+      "repeticiones": "3x15",
+      "duracionMin": 6,
+      "calorias": 40,
+      "tipo": "fuerza",
+      "musculos": ["Pierna"],
+      "instrucciones": "Extiende la pierna hasta arriba sin bloquear la rodilla. Baja lento manteniendo tensión."
+    },
+
+
+    ▫▫▫ **PECHO Y TRÍCEPS** ▫▫▫
+
+    {
+      "id": "flexiones",
+      "nombre": "Flexiones",
+      "repeticiones": "3x15",
+      "duracionMin": 5,
+      "calorias": 50,
       "tipo": "fuerza",
       "musculos": ["Pecho", "Tríceps"],
-      "instrucciones": "Baja la barra al centro del pecho y empuja explosivo hacia arriba manteniendo los hombros retraídos."
+      "instrucciones": "Mantén el cuerpo alineado como una tabla. Baja hasta 90º de codos y empuja hacia arriba sin arquear la espalda."
     },
+
+    {
+      "id": "fondos",
+      "nombre": "Fondos en silla",
+      "repeticiones": "3x12",
+      "duracionMin": 5,
+      "calorias": 40,
+      "tipo": "fuerza",
+      "musculos": ["Tríceps"],
+      "instrucciones": "Sitúa las manos en el borde de la silla, baja con codos pegados al cuerpo y empuja hasta extender."
+    },
+
+    {
+      "id": "press_banca",
+      "nombre": "Press banca",
+      "repeticiones": "4x8",
+      "duracionMin": 10,
+      "calorias": 80,
+      "tipo": "fuerza",
+      "musculos": ["Pecho"],
+      "instrucciones": "Agarra la barra un poco más abierta que los hombros. Baja controlado hasta la parte media del pecho y empuja explosivo."
+    },
+
     {
       "id": "aperturas_mancuernas",
       "nombre": "Aperturas con mancuernas",
       "repeticiones": "3x12",
       "duracionMin": 6,
-      "calorias": 40,
+      "calorias": 45,
       "tipo": "fuerza",
       "musculos": ["Pecho"],
-      "instrucciones": "Abre los brazos con ligera flexión de codos y junta las mancuernas al centro sin chocar."
+      "instrucciones": "Abre los brazos con una ligera flexión de codos, baja al nivel del pecho y junta arriba sin chocar las mancuernas."
     },
+
+
+    ▫▫▫ **ESPALDA** ▫▫▫
+
     {
-      "id": "dominadas",
-      "nombre": "Dominadas",
-      "repeticiones": "3x6-10",
-      "duracionMin": 7,
-      "calorias": 100,
+      "id": "jalon_pecho",
+      "nombre": "Jalón al pecho",
+      "repeticiones": "4x10",
+      "duracionMin": 8,
+      "calorias": 70,
       "tipo": "fuerza",
-      "musculos": ["Espalda", "Bíceps"],
-      "instrucciones": "Agarra la barra a la anchura de los hombros, sube el pecho hacia la barra y baja controlado."
+      "musculos": ["Espalda"],
+      "instrucciones": "Tira de la barra hacia el pecho con los codos hacia abajo. Mantén la espalda recta y no balancees el cuerpo."
     },
+
     {
       "id": "remo_mancuerna",
       "nombre": "Remo con mancuerna",
-      "repeticiones": "4x12",
-      "duracionMin": 8,
+      "repeticiones": "3x12",
+      "duracionMin": 6,
       "calorias": 50,
       "tipo": "fuerza",
-      "musculos": ["Espalda", "Bíceps"],
-      "instrucciones": "Inclina el torso y tira de la mancuerna hacia la cadera, apretando la escápula."
+      "musculos": ["Espalda"],
+      "instrucciones": "Con una rodilla apoyada, tira de la mancuerna hacia la cadera. Mantén el codo pegado al cuerpo."
     },
+
     {
-      "id": "elevaciones_laterales",
-      "nombre": "Elevaciones laterales",
-      "repeticiones": "4x15",
-      "duracionMin": 8,
-      "calorias": 35,
-      "tipo": "fuerza",
-      "musculos": ["Hombros"],
-      "instrucciones": "Levanta las mancuernas hacia los lados sin sobrepasar los hombros."
-    },
-    {
-      "id": "press_militar",
-      "nombre": "Press militar",
-      "repeticiones": "4x8",
-      "duracionMin": 12,
-      "calorias": 75,
-      "tipo": "fuerza",
-      "musculos": ["Hombros", "Tríceps"],
-      "instrucciones": "Empuja la barra hacia arriba manteniendo core fuerte y espalda neutra."
-    },
-    {
-      "id": "curl_biceps",
-      "nombre": "Curl de bíceps",
-      "repeticiones": "3x12",
-      "duracionMin": 0,
-      "calorias": 30,
-      "tipo": "fuerza",
-      "musculos": ["Bíceps"],
-      "instrucciones": "Flexiona los codos sin mover los hombros y aprieta arriba."
-    },
-    {
-      "id": "triceps_polea",
-      "nombre": "Extensiones de tríceps en polea",
-      "repeticiones": "3x15",
-      "duracionMin": 8,
+      "id": "superman",
+      "nombre": "Superman Hold",
+      "repeticiones": "3x30s",
+      "duracionMin": 3,
       "calorias": 25,
       "tipo": "fuerza",
-      "musculos": ["Tríceps"],
-      "instrucciones": "Mantén los codos fijos en los costados y extiende hacia abajo."
+      "musculos": ["Espalda", "Core"],
+      "instrucciones": "Eleva brazos y piernas al mismo tiempo. Mantén abdomen firme y evita hundir la zona lumbar."
     },
+
+
+    ▫▫▫ **CORE** ▫▫▫
+
     {
       "id": "plancha",
-      "nombre": "Plancha abdominal",
-      "repeticiones": "-",
-      "duracionMin": 1,
-      "calorias": 20,
+      "nombre": "Plancha",
+      "repeticiones": "3x45s",
+      "duracionMin": 4,
+      "calorias": 30,
       "tipo": "core",
       "musculos": ["Core"],
-      "instrucciones": "Mantén el cuerpo recto desde la cabeza hasta los pies activando el core."
+      "instrucciones": "Mantén el cuerpo recto, codos bajo hombros y abdomen fuerte. No hundas la cadera."
     },
+
     {
       "id": "crunch",
       "nombre": "Crunch abdominal",
       "repeticiones": "3x20",
-      "duracionMin": 5,
-      "calorias": 15,
+      "duracionMin": 4,
+      "calorias": 25,
       "tipo": "core",
       "musculos": ["Core"],
-      "instrucciones": "Eleva el tronco sin despegar la zona lumbar del suelo."
+      "instrucciones": "Eleva el tronco sin despegar la zona lumbar del suelo. Exhala arriba y baja controlado."
+    },
+
+    {
+      "id": "elevaciones_piernas",
+      "nombre": "Elevaciones de piernas",
+      "repeticiones": "3x12",
+      "duracionMin": 5,
+      "calorias": 40,
+      "tipo": "core",
+      "musculos": ["Core"],
+      "instrucciones": "Mantén las piernas rectas y eleva hasta 90º. Controla la bajada para no arquear la espalda."
+    },
+
+    {
+      "id": "russian_twist",
+      "nombre": "Russian Twist",
+      "repeticiones": "3x20",
+      "duracionMin": 5,
+      "calorias": 45,
+      "tipo": "core",
+      "musculos": ["Oblicuos"],
+      "instrucciones": "Gira el tronco manteniendo el abdomen firme. No redondees la espalda."
+    },
+
+
+    ▫▫▫ **HOMBROS Y BRAZOS** ▫▫▫
+
+    {
+      "id": "elevaciones_laterales",
+      "nombre": "Elevaciones laterales",
+      "repeticiones": "3x15",
+      "duracionMin": 6,
+      "calorias": 35,
+      "tipo": "fuerza",
+      "musculos": ["Hombros"],
+      "instrucciones": "Eleva los brazos en cruz sin subir los hombros. Baja lento manteniendo tensión."
+    },
+
+    {
+      "id": "press_hombro",
+      "nombre": "Press de hombro",
+      "repeticiones": "4x10",
+      "duracionMin": 8,
+      "calorias": 55,
+      "tipo": "fuerza",
+      "musculos": ["Hombros"],
+      "instrucciones": "Empuja las mancuernas hacia arriba sin arquear la espalda. Controla la bajada."
+    },
+
+    {
+      "id": "curl_biceps",
+      "nombre": "Curl de bíceps",
+      "repeticiones": "3x12",
+      "duracionMin": 5,
+      "calorias": 30,
+      "tipo": "fuerza",
+      "musculos": ["Bíceps"],
+      "instrucciones": "Mantén los codos pegados al cuerpo y no balancees el tronco. Sube con control y baja lento."
+    },
+
+    {
+      "id": "martillo",
+      "nombre": "Curl martillo",
+      "repeticiones": "3x12",
+      "duracionMin": 5,
+      "calorias": 35,
+      "tipo": "fuerza",
+      "musculos": ["Bíceps"],
+      "instrucciones": "Sujeta las mancuernas en posición neutra. Sube hasta 90º y controla la bajada."
     }
+
   ]
 }
