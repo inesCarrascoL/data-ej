@@ -9,7 +9,6 @@
       "tipo": "fuerza",
       "musculos": ["Pierna", "Glúteos"],
       "instrucciones": "Coloca la barra sobre los trapecios, baja manteniendo la espalda recta...",
-      "imagen": "https://res.cloudinary.com/dk6b6a3jv/image/upload/v1732817901/sentadilla_barra.jpg"
     },
     {
       "id": "sentadilla_goblet",
@@ -20,7 +19,6 @@
       "tipo": "fuerza",
       "musculos": ["Pierna", "Glúteos"],
       "instrucciones": "Sujeta una mancuerna contra el pecho...",
-      "imagen": ""https://res.cloudinary.com/dk6b6a3jv/image/upload/v1732817901/sentadilla_goblet.jp"
     },
     {
       "id": "zancadas",
@@ -31,7 +29,6 @@
       "tipo": "fuerza",
       "musculos": ["Pierna", "Glúteos"],
       "instrucciones": "Da un paso largo hacia delante...",
-      "imagen": "https://i.imgur.com/8DK1E0d.jpg"
     },
     {
       "id": "hip_thrust",
@@ -42,7 +39,6 @@
       "tipo": "fuerza",
       "musculos": ["Glúteos"],
       "instrucciones": "Eleva la cadera apretando glúteos...",
-      "imagen": "https://i.imgur.com/7d3wdxF.jpg"
     },
     {
       "id": "apertura_gluteo",
@@ -53,7 +49,6 @@
       "tipo": "fuerza",
       "musculos": ["Glúteos", "Abductores"],
       "instrucciones": "Abre las piernas contra la resistencia...",
-      "imagen": "https://i.imgur.com/Rxy2Nnx.jpg"
     },
     {
       "id": "peso_muerto",
@@ -64,7 +59,6 @@
       "tipo": "fuerza",
       "musculos": ["Espalda", "Pierna"],
       "instrucciones": "Agarra la barra desde el suelo...",
-      "imagen": "https://i.imgur.com/wlS0p6N.jpg"
     },
     {
       "id": "curl_femoral",
@@ -75,7 +69,6 @@
       "tipo": "fuerza",
       "musculos": ["Isquios"],
       "instrucciones": "Flexiona las piernas elevando el rodillo...",
-      "imagen": "https://i.imgur.com/Y97JkKJ.jpg"
     },
     {
       "id": "extension_cuadriceps",
@@ -86,7 +79,6 @@
       "tipo": "fuerza",
       "musculos": ["Pierna"],
       "instrucciones": "Extiende la pierna hasta arriba...",
-      "imagen": "https://i.imgur.com/7MgGQJn.jpg"
     },
     {
       "id": "flexiones",
@@ -97,7 +89,6 @@
       "tipo": "fuerza",
       "musculos": ["Pecho", "Tríceps"],
       "instrucciones": "Mantén el cuerpo alineado...",
-      "imagen": "https://i.imgur.com/ivNsvLD.jpg"
     },
     {
       "id": "fondos",
@@ -108,7 +99,6 @@
       "tipo": "fuerza",
       "musculos": ["Tríceps"],
       "instrucciones": "Sitúa las manos en el borde...",
-      "imagen": "https://i.imgur.com/QnC3La9.jpg"
     },
 
     {
@@ -120,7 +110,6 @@
       "tipo": "fuerza",
       "musculos": ["Pecho"],
       "instrucciones": "Agarra la barra más abierta que hombros...",
-      "imagen": "https://i.imgur.com/Wy3sw9M.jpg"
     },
 
     {
@@ -132,7 +121,7 @@
       "tipo": "fuerza",
       "musculos": ["Pecho"],
       "instrucciones": "Abre los brazos con ligera flexión...",
-      "imagen": "https://i.imgur.com/oKsbOte.jpg"
+      
     },
 
     {
@@ -144,7 +133,7 @@
       "tipo": "fuerza",
       "musculos": ["Espalda"],
       "instrucciones": "Tira de la barra hacia el pecho...",
-      "imagen": "https://i.imgur.com/FcrTiqy.jpg"
+      
     },
 
     {
@@ -156,7 +145,7 @@
       "tipo": "fuerza",
       "musculos": ["Espalda"],
       "instrucciones": "Con una rodilla apoyada...",
-      "imagen": "https://i.imgur.com/umSRd9b.jpg"
+     
     },
 
     {
@@ -168,7 +157,7 @@
       "tipo": "fuerza",
       "musculos": ["Espalda", "Core"],
       "instrucciones": "Eleva brazos y piernas...",
-      "imagen": "https://i.imgur.com/dPm7z3m.jpg"
+     
     },
 
     {
@@ -180,7 +169,7 @@
       "tipo": "core",
       "musculos": ["Core"],
       "instrucciones": "Mantén el cuerpo recto...",
-      "imagen": "https://i.imgur.com/fW0jsRf.jpg"
+     
     },
 
     {
@@ -192,7 +181,7 @@
       "tipo": "core",
       "musculos": ["Core"],
       "instrucciones": "Eleva el tronco sin despegar lumbar...",
-      "imagen": "https://i.imgur.com/4T29als.jpg"
+     
     },
 
     {
@@ -204,7 +193,7 @@
       "tipo": "core",
       "musculos": ["Core"],
       "instrucciones": "Eleva piernas manteniéndolas rectas...",
-      "imagen": "https://i.imgur.com/qtzv9mn.jpg"
+      
     },
 
     {
@@ -216,7 +205,7 @@
       "tipo": "core",
       "musculos": ["Oblicuos"],
       "instrucciones": "Gira el tronco sin redondear espalda...",
-      "imagen": "https://i.imgur.com/ENx6wFt.jpg"
+      
     },
 
     {
@@ -240,7 +229,6 @@
       "tipo": "fuerza",
       "musculos": ["Hombros"],
       "instrucciones": "Empuja mancuernas hacia arriba...",
-      "imagen": "https://i.imgur.com/hnpp82Q.jpg"
     },
 
     {
@@ -252,7 +240,6 @@
       "tipo": "fuerza",
       "musculos": ["Bíceps"],
       "instrucciones": "Codos pegados al cuerpo...",
-      "imagen": "https://i.imgur.com/6FWjv0q.jpg"
     },
 
     {
@@ -264,7 +251,6 @@
       "tipo": "fuerza",
       "musculos": ["Bíceps"],
       "instrucciones": "Posición neutra en todo el movimiento...",
-      "imagen": "https://i.imgur.com/Jmfd6h6.jpg"
     }
   ]
 }
