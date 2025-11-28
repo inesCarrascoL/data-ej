@@ -89,9 +89,6 @@
       "instrucciones": "Extiende la pierna hasta arriba sin bloquear la rodilla. Baja lento manteniendo tensión."
     },
 
-
-    ▫▫▫ **PECHO Y TRÍCEPS** ▫▫▫
-
     {
       "id": "flexiones",
       "nombre": "Flexiones",
@@ -136,9 +133,6 @@
       "instrucciones": "Abre los brazos con una ligera flexión de codos, baja al nivel del pecho y junta arriba sin chocar las mancuernas."
     },
 
-
-    ▫▫▫ **ESPALDA** ▫▫▫
-
     {
       "id": "jalon_pecho",
       "nombre": "Jalón al pecho",
@@ -171,9 +165,6 @@
       "musculos": ["Espalda", "Core"],
       "instrucciones": "Eleva brazos y piernas al mismo tiempo. Mantén abdomen firme y evita hundir la zona lumbar."
     },
-
-
-    ▫▫▫ **CORE** ▫▫▫
 
     {
       "id": "plancha",
@@ -218,9 +209,6 @@
       "musculos": ["Oblicuos"],
       "instrucciones": "Gira el tronco manteniendo el abdomen firme. No redondees la espalda."
     },
-
-
-    ▫▫▫ **HOMBROS Y BRAZOS** ▫▫▫
 
     {
       "id": "elevaciones_laterales",
