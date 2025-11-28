@@ -1,6 +1,5 @@
 {
   "ejercicios": [
-
     {
       "id": "sentadilla_barra",
       "nombre": "Sentadilla con barra",
@@ -9,10 +8,9 @@
       "calorias": 90,
       "tipo": "fuerza",
       "musculos": ["Pierna", "Glúteos"],
-      "instrucciones": "Coloca la barra sobre los trapecios, baja manteniendo la espalda recta y las rodillas alineadas.",
-      "imagen": "https://i.imgur.com/nUziY0o.jpeg"
+      "instrucciones": "Coloca la barra sobre los trapecios, baja manteniendo la espalda recta...",
+      "imagen": "https://i.imgur.com/21xFKkU.jpg"
     },
-
     {
       "id": "sentadilla_goblet",
       "nombre": "Sentadilla Goblet",
@@ -21,10 +19,9 @@
       "calorias": 70,
       "tipo": "fuerza",
       "musculos": ["Pierna", "Glúteos"],
-      "instrucciones": "Sujeta una mancuerna contra el pecho y baja con control.",
-      "imagen": "https://i.imgur.com/8VzO3Fv.jpeg"
+      "instrucciones": "Sujeta una mancuerna contra el pecho...",
+      "imagen": "https://i.imgur.com/nOeT1mG.jpg"
     },
-
     {
       "id": "zancadas",
       "nombre": "Zancadas alternas",
@@ -33,10 +30,9 @@
       "calorias": 60,
       "tipo": "fuerza",
       "musculos": ["Pierna", "Glúteos"],
-      "instrucciones": "Da un paso largo hacia delante y baja controlado.",
-      "imagen": "https://i.imgur.com/1w51nT0.jpeg"
+      "instrucciones": "Da un paso largo hacia delante...",
+      "imagen": "https://i.imgur.com/8DK1E0d.jpg"
     },
-
     {
       "id": "hip_thrust",
       "nombre": "Hip Thrust",
@@ -45,10 +41,9 @@
       "calorias": 80,
       "tipo": "fuerza",
       "musculos": ["Glúteos"],
-      "instrucciones": "Eleva la cadera apretando fuerte arriba.",
-      "imagen": "https://i.imgur.com/SfR1PfZ.jpeg"
+      "instrucciones": "Eleva la cadera apretando glúteos...",
+      "imagen": "https://i.imgur.com/7d3wdxF.jpg"
     },
-
     {
       "id": "apertura_gluteo",
       "nombre": "Apertura de glúteos en máquina",
@@ -57,10 +52,9 @@
       "calorias": 50,
       "tipo": "fuerza",
       "musculos": ["Glúteos", "Abductores"],
-      "instrucciones": "Abre las piernas controlando el movimiento.",
-      "imagen": "https://i.imgur.com/45uEJLs.jpeg"
+      "instrucciones": "Abre las piernas contra la resistencia...",
+      "imagen": "https://i.imgur.com/Rxy2Nnx.jpg"
     },
-
     {
       "id": "peso_muerto",
       "nombre": "Peso muerto",
@@ -69,10 +63,9 @@
       "calorias": 90,
       "tipo": "fuerza",
       "musculos": ["Espalda", "Pierna"],
-      "instrucciones": "Mantén la barra pegada al cuerpo en todo el recorrido.",
-      "imagen": "https://i.imgur.com/s9hSq04.jpeg"
+      "instrucciones": "Agarra la barra desde el suelo...",
+      "imagen": "https://i.imgur.com/wlS0p6N.jpg"
     },
-
     {
       "id": "curl_femoral",
       "nombre": "Curl femoral",
@@ -81,10 +74,9 @@
       "calorias": 45,
       "tipo": "fuerza",
       "musculos": ["Isquios"],
-      "instrucciones": "Aprieta atrás y baja despacio.",
-      "imagen": "https://i.imgur.com/03Kjy1p.jpeg"
+      "instrucciones": "Flexiona las piernas elevando el rodillo...",
+      "imagen": "https://i.imgur.com/Y97JkKJ.jpg"
     },
-
     {
       "id": "extension_cuadriceps",
       "nombre": "Extensiones de cuádriceps",
@@ -93,10 +85,9 @@
       "calorias": 40,
       "tipo": "fuerza",
       "musculos": ["Pierna"],
-      "instrucciones": "Extiende la pierna sin bloquear la rodilla.",
-      "imagen": "https://i.imgur.com/9vSo4Vg.jpeg"
+      "instrucciones": "Extiende la pierna hasta arriba...",
+      "imagen": "https://i.imgur.com/7MgGQJn.jpg"
     },
-
     {
       "id": "flexiones",
       "nombre": "Flexiones",
@@ -105,20 +96,19 @@
       "calorias": 50,
       "tipo": "fuerza",
       "musculos": ["Pecho", "Tríceps"],
-      "instrucciones": "Mantén el cuerpo firme, baja a 90º y empuja.",
-      "imagen": "https://i.imgur.com/CoaM9rh.jpeg"
+      "instrucciones": "Mantén el cuerpo alineado...",
+      "imagen": "https://i.imgur.com/ivNsvLD.jpg"
     },
-
     {
       "id": "fondos",
       "nombre": "Fondos en silla",
       "repeticiones": "3x12",
       "duracionMin": 5,
-      "calcalorias": 40,
+      "calorias": 40,
       "tipo": "fuerza",
       "musculos": ["Tríceps"],
-      "instrucciones": "Baja con codos pegados al cuerpo.",
-      "imagen": "https://i.imgur.com/m5bzk1X.jpeg"
+      "instrucciones": "Sitúa las manos en el borde...",
+      "imagen": "https://i.imgur.com/QnC3La9.jpg"
     },
 
     {
@@ -129,8 +119,8 @@
       "calorias": 80,
       "tipo": "fuerza",
       "musculos": ["Pecho"],
-      "instrucciones": "Baja controlado y empuja explosivo.",
-      "imagen": "https://i.imgur.com/XLeFcZr.jpeg"
+      "instrucciones": "Agarra la barra más abierta que hombros...",
+      "imagen": "https://i.imgur.com/Wy3sw9M.jpg"
     },
 
     {
@@ -141,8 +131,8 @@
       "calorias": 45,
       "tipo": "fuerza",
       "musculos": ["Pecho"],
-      "instrucciones": "Baja lento manteniendo ligera flexión de codos.",
-      "imagen": "https://i.imgur.com/V3Mk1zB.jpeg"
+      "instrucciones": "Abre los brazos con ligera flexión...",
+      "imagen": "https://i.imgur.com/oKsbOte.jpg"
     },
 
     {
@@ -153,8 +143,8 @@
       "calorias": 70,
       "tipo": "fuerza",
       "musculos": ["Espalda"],
-      "instrucciones": "Tira hacia el pecho manteniendo la espalda recta.",
-      "imagen": "https://i.imgur.com/quL3E51.jpeg"
+      "instrucciones": "Tira de la barra hacia el pecho...",
+      "imagen": "https://i.imgur.com/FcrTiqy.jpg"
     },
 
     {
@@ -165,8 +155,8 @@
       "calorias": 50,
       "tipo": "fuerza",
       "musculos": ["Espalda"],
-      "instrucciones": "Tira hacia la cadera con el codo pegado.",
-      "imagen": "https://i.imgur.com/zqY9oZ3.jpeg"
+      "instrucciones": "Con una rodilla apoyada...",
+      "imagen": "https://i.imgur.com/umSRd9b.jpg"
     },
 
     {
@@ -177,8 +167,8 @@
       "calorias": 25,
       "tipo": "fuerza",
       "musculos": ["Espalda", "Core"],
-      "instrucciones": "Eleva brazos y piernas a la vez.",
-      "imagen": "https://i.imgur.com/10XbKkS.jpeg"
+      "instrucciones": "Eleva brazos y piernas...",
+      "imagen": "https://i.imgur.com/dPm7z3m.jpg"
     },
 
     {
@@ -189,8 +179,8 @@
       "calorias": 30,
       "tipo": "core",
       "musculos": ["Core"],
-      "instrucciones": "No hundas la cadera.",
-      "imagen": "https://i.imgur.com/8mfpQOv.jpeg"
+      "instrucciones": "Mantén el cuerpo recto...",
+      "imagen": "https://i.imgur.com/fW0jsRf.jpg"
     },
 
     {
@@ -201,8 +191,8 @@
       "calorias": 25,
       "tipo": "core",
       "musculos": ["Core"],
-      "instrucciones": "Exhala arriba, baja controlado.",
-      "imagen": "https://i.imgur.com/zONeKTs.jpeg"
+      "instrucciones": "Eleva el tronco sin despegar lumbar...",
+      "imagen": "https://i.imgur.com/4T29als.jpg"
     },
 
     {
@@ -213,8 +203,8 @@
       "calorias": 40,
       "tipo": "core",
       "musculos": ["Core"],
-      "instrucciones": "Controla la bajada.",
-      "imagen": "https://i.imgur.com/lhrvO1Z.jpeg"
+      "instrucciones": "Eleva piernas manteniéndolas rectas...",
+      "imagen": "https://i.imgur.com/qtzv9mn.jpg"
     },
 
     {
@@ -225,8 +215,8 @@
       "calorias": 45,
       "tipo": "core",
       "musculos": ["Oblicuos"],
-      "instrucciones": "Mantén abdomen firme.",
-      "imagen": "https://i.imgur.com/xmnMWow.jpeg"
+      "instrucciones": "Gira el tronco sin redondear espalda...",
+      "imagen": "https://i.imgur.com/ENx6wFt.jpg"
     },
 
     {
@@ -237,8 +227,8 @@
       "calorias": 35,
       "tipo": "fuerza",
       "musculos": ["Hombros"],
-      "instrucciones": "Eleva sin subir los hombros.",
-      "imagen": "https://i.imgur.com/lz1t4Fj.jpeg"
+      "instrucciones": "Eleva los brazos sin subir hombros...",
+      "imagen": "https://i.imgur.com/8yFEX2v.jpg"
     },
 
     {
@@ -249,8 +239,8 @@
       "calorias": 55,
       "tipo": "fuerza",
       "musculos": ["Hombros"],
-      "instrucciones": "Controla la bajada sin arquear.",
-      "imagen": "https://i.imgur.com/fH6VCAA.jpeg"
+      "instrucciones": "Empuja mancuernas hacia arriba...",
+      "imagen": "https://i.imgur.com/hnpp82Q.jpg"
     },
 
     {
@@ -261,8 +251,8 @@
       "calorias": 30,
       "tipo": "fuerza",
       "musculos": ["Bíceps"],
-      "instrucciones": "No balancees el tronco.",
-      "imagen": "https://i.imgur.com/3nHS1tk.jpeg"
+      "instrucciones": "Codos pegados al cuerpo...",
+      "imagen": "https://i.imgur.com/6FWjv0q.jpg"
     },
 
     {
@@ -271,11 +261,10 @@
       "repeticiones": "3x12",
       "duracionMin": 5,
       "calorias": 35,
-      "tipo": "fuerза",
+      "tipo": "fuerza",
       "musculos": ["Bíceps"],
-      "instrucciones": "Controla el movimiento.",
-      "imagen": "https://i.imgur.com/K6clN4y.jpeg"
+      "instrucciones": "Posición neutra en todo el movimiento...",
+      "imagen": "https://i.imgur.com/Jmfd6h6.jpg"
     }
-
   ]
 }
